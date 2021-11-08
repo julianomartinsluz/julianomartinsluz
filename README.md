@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @julianomartinsluz
 - 👀 I’m interested in  Tecnologia.
-- 🌱 I’m currently learning UI/UX.        
+- 🌱 I’m currently learning UI/UX, Scrum, Angular e NodeJs.        
 - 💞️ I’m looking to collaborate on  Tecnologia.
 - 📫 How to reach me  julianomartins769@gmail.com
 
